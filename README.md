@@ -8,5 +8,11 @@ for the purpose of gathering network information and statistics from a client-ma
 from the end-user (aside from installing Java™).
 
 Purpose
+
 It allows for the assurance of client side communication fidelity and latency to a remote server, very handy in many cases 
 of network or website diagnostics.
+
+Demo
+
+Demo of applet in action can be found here:
+http://nnovationlabs.com/projects/jPingping/jpingping_project.html
