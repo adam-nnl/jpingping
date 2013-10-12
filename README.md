@@ -17,7 +17,7 @@ of network or website diagnostics.
 Demo of applet in action can be found here:
 http://nnovationlabs.com/projects/jPingping/jpingping_project.html
 
-***usage***
+***Usage***
 
 The jPingPing package consists of two classes, jPingping.java which contains the main method and GUI code. and jPingpingThread
 which is the background processing thread where the magic happens. All of the settings for which host to ping and email settings
